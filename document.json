@@ -1,0 +1,38 @@
+{
+    "name": "Redis",
+    "description": "Redis",
+    "logo": "_images/logo.png",
+    "has_supporting_content": true,
+    "stack_id": "redis-bitnami-chart",
+    "type": "Helm",
+    "categories": [
+        "Database"
+    ],
+    "platform": "Kubernetes",
+    "cover": "cover.md",
+    "meta": {
+        "Type": [
+            "Helm"
+        ],
+        "Install time": [
+            "5 minutes"
+        ],
+        "Categories": [
+            "Streaming & Messaging"
+        ]
+    },
+    "deployment_information": {
+        "Project": "NA",
+        "Deployment Namespace": "helm-kafka"
+    },
+    "commands": [
+        
+    ],
+    "display": [
+        {
+            "name": "Developer Dashboard",
+            "url": "##DNS.host##/codeserver",
+            "enabled": true
+        }
+    ]
+}
