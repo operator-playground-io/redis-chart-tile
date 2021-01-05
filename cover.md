@@ -1,3 +1,5 @@
+<img src="_images/logo.jpg" width="20%">
+
 ## Redis
 
 [Redis](https://redis.io/topics/introduction) is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs.
