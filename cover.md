@@ -6,11 +6,19 @@
 
 This chart bootstraps a [Redis](https://github.com/bitnami/charts/tree/master/bitnami/redis/#installing-the-chart) deployment on a [Kubernetes](http://kubernetes.io) cluster using the [Helm](https://helm.sh) package manager.
 
+## Objective of tutorial
+
+This course provides instructions to aid with the setup of Redis on kubernetes using bitnami helm chart, including:
+1. Deployment of a Redis database
+2. Basic Redis commands
+3. Connecting the deployed Redis database to a Nodejs Application.
+
 ## Prerequisites
 
 - Kubernetes 1.12+
 - Helm 3.0-beta3+
 
-## Custom Configuration
+## Custom Configuration of Redis - Bitnami Helm chart
 
 To deploy with custom configuration and explore the available paramaters visit https://github.com/bitnami/charts/tree/master/bitnami/redis/#parameters
+
