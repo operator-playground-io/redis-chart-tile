@@ -7,7 +7,7 @@
       {
          "description":"An introduction to Redis and Bitnami Helm Charts",
          "duration":"5 min",
-         "tutorial_name":" 0. Introduction.md",
+         "tutorial_name":"Introduction.md",
          "title":"An introduction to Redis and Bitnami Helm Charts"
       },
       {
