@@ -18,7 +18,7 @@
       },
       {
          "description":"Connecting to Redis Service",
-         "duration":"15 min",
+         "duration":"5 min",
          "tutorial_name":"2. Connecting to Redis Service.md",
          "title":"Connecting to Redis Service"
       },
@@ -30,19 +30,19 @@
       },
       {
          "description":"Connecting redis with an application",
-         "duration":"15 min",
+         "duration":"5 min",
          "tutorial_name":"4. Connecting redis with an application.md",
          "title":"Connecting redis with an application"
       },
       {
          "description":"Sample nodejs application using Redis",
-         "duration":"15 min",
+         "duration":"5 min",
          "tutorial_name":"5. Sample application in use.md",
          "title":"Sample application in using Redis"
       },
       {
          "description":"Conclusion",
-         "duration":"15 min",
+         "duration":"2 min",
          "tutorial_name":"6. Conclusion.md",
          "title":"Conclusion"
       }
