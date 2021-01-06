@@ -1,0 +1,23 @@
+{
+  "title": "Redis",
+  "description": "Redis",
+  "logo": "_images/logo.jpg",
+  "enabled": true,
+  "category_label": [
+    "Helm"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "redis-bitnami-chart",
+  "type": "Helm",
+  "categories": [
+    "Database"
+  ],
+  "is_certified": true,
+  "has_support": true,
+  "has_dataset": false,
+  "has_api": false,
+  "git_url": "https://github.com/operator-playground-io/redis-chart-tile.git",
+  "git_commit": "3aeac9c7eba27263481ef68345b0c235a7068d6f",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+}
