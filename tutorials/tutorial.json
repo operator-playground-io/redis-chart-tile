@@ -8,7 +8,7 @@
          "description":"An introduction to Redis and Bitnami Helm Charts",
          "duration":"5 min",
          "tutorial_name":"0. Introduction.md",
-         "title":"An introduction to Redis and Bitnami Helm Charts"
+         "title":"Introduction to Redis"
       },
       {
          "description":"Setting up Redis using Helm Package Manager",
@@ -17,28 +17,28 @@
          "title":"Setting up Redis"
       },
       {
-         "description":"Connecting to Redis Service",
+         "description":"Connecting to Redis Service through a pod",
          "duration":"5 min",
          "tutorial_name":"2. Connecting to Redis Service.md",
          "title":"Connecting to Redis Service"
       },
       {
-         "description":"Redis - CRUD Commands",
+         "description":"Some basic CRUD Commands in Redis",
          "duration":"5 min",
          "tutorial_name":"3. Redis - CRUD Commands.md",
          "title":"Redis - CRUD Commands"
       },
       {
-         "description":"Connecting redis with an application",
+         "description":"Connecting Redis to a sample nodejs application",
          "duration":"5 min",
          "tutorial_name":"4. Connecting redis with an application.md",
-         "title":"Connecting redis with an application"
+         "title":"Connecting Redis to an application"
       },
       {
-         "description":"Sample nodejs application using Redis",
+         "description":"Running Redis commands through sample nodejs application",
          "duration":"5 min",
          "tutorial_name":"5. Sample application in use.md",
-         "title":"Sample application in using Redis"
+         "title":"Exploring sample application"
       },
       {
          "description":"Conclusion",
