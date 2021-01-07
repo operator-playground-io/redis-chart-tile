@@ -1,4 +1,4 @@
-<img src="_images/logo.jpg" width="20%">
+![Redis](_images/logo.jpg)
 
 ## Redis
 
