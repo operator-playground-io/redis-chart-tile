@@ -8,42 +8,42 @@
          "description":"An introduction to Redis and Bitnami Helm Charts",
          "duration":"5 min",
          "tutorial_name":"0. Introduction.md",
-         "title":"Introduction to Redis"
+         "title":"1. Introduction to Redis"
       },
       {
          "description":"Setting up Redis using Helm Package Manager",
          "duration":"5 min",
-         "tutorial_name":"1. Setting Up Redis.md",
+         "tutorial_name":"2. Setting Up Redis.md",
          "title":"Setting up Redis"
       },
       {
          "description":"Connecting to Redis Service through a pod",
          "duration":"5 min",
-         "tutorial_name":"2. Connecting to Redis Service.md",
+         "tutorial_name":"3. Connecting to Redis Service.md",
          "title":"Connecting to Redis Service"
       },
       {
          "description":"Some basic CRUD Commands in Redis",
          "duration":"5 min",
-         "tutorial_name":"3. Redis - CRUD Commands.md",
+         "tutorial_name":"4. Redis - CRUD Commands.md",
          "title":"Redis - CRUD Commands"
       },
       {
          "description":"Connecting Redis to a sample nodejs application",
          "duration":"5 min",
-         "tutorial_name":"4. Connecting redis with an application.md",
+         "tutorial_name":"5. Connecting redis with an application.md",
          "title":"Connecting Redis to an application"
       },
       {
          "description":"Running Redis commands through sample nodejs application",
          "duration":"5 min",
-         "tutorial_name":"5. Sample application in use.md",
+         "tutorial_name":"6. Sample application in use.md",
          "title":"Exploring sample application"
       },
       {
          "description":"Conclusion",
          "duration":"2 min",
-         "tutorial_name":"6. Conclusion.md",
+         "tutorial_name":"7. Conclusion.md",
          "title":"Conclusion"
       }
       
@@ -53,6 +53,16 @@
          "title":"Redis",
          "description":"Redis ",
          "url":"https://bitnami.com/stack/redis/helm"
-      }
+      },
+      {
+         "title":"Custom Configuration of Redis",
+         "description":"Custom Configuration of Redis - Bitnami Helm chart",
+         "url":"https://github.com/bitnami/charts/tree/master/bitnami/redis/#parameters"
+      },
+      {
+         "title":"Redis Commands",
+         "description":"Redis Command Documentation",
+         "url":"https://redis.io/commands"
+      },
    ]
 }
