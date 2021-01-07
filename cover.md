@@ -1,4 +1,3 @@
-![Redis](_images/logo.jpg)
 
 ## Redis
 
