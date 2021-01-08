@@ -13,33 +13,13 @@
 1. <a href="https://github.com/bitnami/charts/tree/master/bitnami/redis">Redis Helm Chart</a><br>
 2. <a href="https://github.com/bitnami/charts/tree/master/bitnami/redis-cluster">Redis Cluster Helm Chart</a>
 </p>
-<p>You can choose any of the two Redis Helm charts for deploying a Redis cluster. While Redis Helm Chart will deploy a master-slave cluster using Redis Sentinel, the Redis Cluster Helm Chart will deploy a Redis Cluster topology with sharding. The main features of each chart are the following:</ps>
+<p>You can choose any of the two Redis Helm charts for deploying a Redis cluster. While Redis Helm Chart will deploy a master-slave cluster using Redis Sentinel, the Redis Cluster Helm Chart will deploy a Redis Cluster topology with sharding. The main features of each chart are the following:</p>
 
-<table>
-  <tr>
-    <th>Redis</th>
-    <th>Redis Cluster</th>
-  </tr>
-  <tr>
-    <td>Supports multiple databases</td>
-    <td>Supports only one database. Better if you have a big dataset</td>
-  </tr>
-  <tr>
-    <td>Single write point (single master)</td>
-    <td>Multiple write points (multiple masters)</td>
-  </tr>
-  <tr>
-    <td> ![](_images/redis-topology.png) </td>
-    <td> <img src="_images/redis-cluster-topology.png"/> </td>
-  </tr>
-</table>
-
-| Head | Head |
+| Redis | Redis Cluster |
 | --- | --- |
-| ![](_images/redis-topology.png) | Data |
-| Data | Data |
-| Data | Data |
-
+| Supports multiple databases | Supports only one database. Better if you have a big dataset |
+| Single write point (single master) | Multiple write points (multiple masters) |
+| ![](_images/redis-topology.png) | ![](_images/redis-cluster-topology.png) |
 
 <p>Redis helm chart shall be explored in this tutorial</p>
 
