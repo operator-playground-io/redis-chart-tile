@@ -1,7 +1,7 @@
 {
     "name": "Redis",
     "description": "Redis",
-    "logo": "_images/logo-redis.png",
+    "logo": "_images/logo-redis.jpg",
     "has_supporting_content": true,
     "stack_id": "redis-bitnami-chart",
     "type": "Helm",
