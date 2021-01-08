@@ -29,10 +29,17 @@
     <td>Multiple write points (multiple masters)</td>
   </tr>
   <tr>
-    <td> <img src="_images/redis-topology.png"/> </td>
+    <td> ![](_images/redis-topology.png) </td>
     <td> <img src="_images/redis-cluster-topology.png"/> </td>
   </tr>
 </table>
+
+| Head | Head |
+| --- | --- |
+| ![](_images/redis-topology.png) | Data |
+| Data | Data |
+| Data | Data |
+
 
 <p>Redis helm chart shall be explored in this tutorial</p>
 
