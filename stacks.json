@@ -1,7 +1,7 @@
 {
   "title": "Redis",
   "description": "Redis",
-  "logo": "_images/redis-logo-small.png.jpg",
+  "logo": "_images/redis-logo-small-1.png",
   "enabled": true,
   "category_label": [
     "Helm"
