@@ -36,7 +36,7 @@
         },
         {
             "description": "Installing python libraries for the sample redis application",
-            "exec": "pip install flask && pip install redis"
+            "exec": "sudo pip install flask && sudo pip install redis"
         }
     ],
     "display": [
