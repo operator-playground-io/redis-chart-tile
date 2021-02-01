@@ -26,7 +26,14 @@
         "Deployment Namespace": "helm-redis"
     },
     "commands": [
-        
+        {
+            "description": "Add Redis to the local helm repository",
+            "exec": "helm repo add bitnami https://charts.bitnami.com/bitnami"
+        },
+        {
+            "description": "Install the redis helm chart",
+            "exec": "helm install my-release bitnami/redis --set master.service.type=NodePort,master.service.nodePort=30001"
+        }
     ],
     "display": [
         {
