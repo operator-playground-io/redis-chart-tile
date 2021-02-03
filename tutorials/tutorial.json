@@ -23,10 +23,10 @@
          "title":"3. Redis - CRUD Commands"
       },
       {
-         "description":"Connecting Redis to a python application",
+         "description":"A sample redis application",
          "duration":"5 min",
-         "tutorial_name":"4. Connecting redis with an application.md",
-         "title":"4. Connecting Redis to an application"
+         "tutorial_name":"4. Sample redis application.md",
+         "title":"Credential Management Application"
       },
       {
          "description":"Running Redis commands through sample nodejs application",
