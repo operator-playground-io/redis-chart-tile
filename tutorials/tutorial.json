@@ -5,7 +5,7 @@
    "footer":"footer.md",
    "tutorials":[
       {
-         "description":"Setting up Redis using Helm Package Manager",
+         "description":"The Bitnami Helm Charts have been installed, however additional steps are required to complete the setup of the redis service.",
          "duration":"5 min",
          "tutorial_name":"1. Setting Up Redis.md",
          "title":"1. Setting up Redis"
