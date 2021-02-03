@@ -32,7 +32,7 @@
         },
         {
             "description": "Install the redis helm chart by adjusting the sevice type to NodePort and setting a high port.",
-            "exec": "helm install my-release bitnami/redis --set master.service.type=NodePort,master.service.nodePort=30001"
+            "exec": "helm install my-release bitnami/redis"
         }
     ],
     "display": [
