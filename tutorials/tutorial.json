@@ -19,20 +19,20 @@
       {
          "description":"Some basic CRUD Commands in Redis",
          "duration":"5 min",
-         "tutorial_name":"3. Redis - CRUD Commands.md",
-         "title":"3. Redis - CRUD Commands"
+         "tutorial_name":"3. CRUD Commands.md",
+         "title":"3. CRUD Commands"
       },
       {
-         "description":"A sample redis application",
+         "description":"Setting up a Credential Management Application and connecting it with Redis",
          "duration":"5 min",
-         "tutorial_name":"4. Sample redis application.md",
-         "title":"Credential Management Application"
+         "tutorial_name":"4. Setting up a Sample Redis Application.md",
+         "title":"Setting up a Sample Redis Application"
       },
       {
-         "description":"Running Redis commands through sample nodejs application",
+         "description":"Exploring the Credential Management Application",
          "duration":"5 min",
-         "tutorial_name":"5. Sample application in use.md",
-         "title":"5. Exploring sample application"
+         "tutorial_name":"5. Usage of Sample Application.md",
+         "title":"5. Exploring the Sample Application"
       },
       {
          "description":"Conclusion",
