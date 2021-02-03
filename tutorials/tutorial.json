@@ -11,25 +11,25 @@
          "title":"1. Setting up Redis"
       },
       {
-         "description":"Connecting to Redis Service through a pod",
+         "description":"With the redis service up and running, we connect to the database from a pod using Redis CLI",
          "duration":"5 min",
          "tutorial_name":"2. Connecting to Redis Service.md",
          "title":"2. Connecting to Redis Service"
       },
       {
-         "description":"Some basic CRUD Commands in Redis",
+         "description":"Some basic CRUD Commands in Redis, their patterns and functions",
          "duration":"5 min",
          "tutorial_name":"3. CRUD Commands.md",
          "title":"3. CRUD Commands"
       },
       {
-         "description":"Setting up a Credential Management Application and connecting it with Redis",
+         "description":"Setting up a Credential Management Application as a sample application and connecting it with Redis",
          "duration":"5 min",
          "tutorial_name":"4. Setting up a Sample Redis Application.md",
          "title":"Setting up a Sample Redis Application"
       },
       {
-         "description":"Exploring the Credential Management Application",
+         "description":"Exploring the usage of the Credential Management Application, finding out what it does",
          "duration":"5 min",
          "tutorial_name":"5. Usage of Sample Application.md",
          "title":"5. Exploring the Sample Application"
@@ -57,6 +57,11 @@
          "title":"Redis Commands",
          "description":"Redis Command Documentation",
          "url":"https://redis.io/commands"
+      },
+      {
+          "title":"Skaffold",
+         "description":"Skaffold Documentation",
+         "url":"https://skaffold.dev/docs"
       }
    ]
 }
