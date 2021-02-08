@@ -26,7 +26,7 @@
          "description":"Setting up a Credential Management Application as a sample application and connecting it with Redis",
          "duration":"5 min",
          "tutorial_name":"4. Setting up a Sample Redis Application.md",
-         "title":"Setting up a Sample Redis Application"
+         "title":"4. Setting up a Sample Redis Application"
       },
       {
          "description":"Exploring the usage of the Credential Management Application, finding out what it does",
