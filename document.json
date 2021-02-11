@@ -33,6 +33,10 @@
         {
             "description": "Install the redis helm chart",
             "exec": "helm install my-release bitnami/redis"
+        },
+        {
+            "description": "Change directory to projects/",
+            "exec": "cd projects"
         }
     ],
     "display": [
