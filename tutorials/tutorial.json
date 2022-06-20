@@ -23,18 +23,6 @@
          "title":"3. CRUD Commands"
       },
       {
-         "description":"Setting up a Credential Management Application as a sample application and connecting it with Redis",
-         "duration":"5 min",
-         "tutorial_name":"4. Setting up a Sample Redis Application.md",
-         "title":"4. Setting up a Sample Redis Application"
-      },
-      {
-         "description":"Exploring the usage of the Credential Management Application, finding out what it does",
-         "duration":"5 min",
-         "tutorial_name":"5. Usage of Sample Application.md",
-         "title":"5. Exploring the Sample Application"
-      },
-      {
          "description":"A conclusion summarizing the objectives of this tutorial",
          "duration":"2 min",
          "tutorial_name":"6. Conclusion.md",
